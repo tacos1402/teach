@@ -1,0 +1,11 @@
+WindowsPowerShell
+
+ls ファイル参照
+
+cd 移動
+
+cdの後ろに..でひとつ前のフォルダに戻る
+
+cd documents/unityとかにするとdocumentsの中のunityに一気に飛べる
+
+mkdir…新しくファイルを作ることができる
